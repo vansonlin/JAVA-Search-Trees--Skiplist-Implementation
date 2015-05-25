@@ -1,5 +1,8 @@
 README for Algorithm Project by Tzu-Chun (Vanson) Lin
+Purdue University, Indianapolis
 4/22, 2015
+
+The pository is for Algorithm Course Project in 2015 Spring. This project implemented Binery Search Tree, Red-Black Tree, Splay Tree, and Skip List. It takes a file and input the value to the data structure one by one and places it in the appropriate position. 
 
 -----------------
 -- Quick Start --
