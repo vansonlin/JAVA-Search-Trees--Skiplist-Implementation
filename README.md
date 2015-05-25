@@ -1,5 +1,4 @@
 README for Algorithm Project by Tzu-Chun (Vanson) Lin
-lintz@iupui.edu
 4/22, 2015
 
 -----------------
